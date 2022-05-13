@@ -56,6 +56,8 @@
     - Reducing Friction 
   - Forms
     - Increasing Friction
+  - AWS Account Closing Conditions
+  - Deleting a GitHub repository
 
 - Be Consistent
   - Design System
