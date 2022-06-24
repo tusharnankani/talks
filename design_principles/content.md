@@ -81,6 +81,8 @@
   - Clear Call to Actions (CTAs)
     - Eg: Samosa UI
       - Association of CTAs to color and icons.
+  - Another Observation: Network Tab in Devtools
+    - Close Icon on the Reosurces Tab is on the left 
 
 - Be tolerant of mistakes
   - Mistakes happen. 
