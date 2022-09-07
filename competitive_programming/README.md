@@ -1,4 +1,4 @@
-# Design Principles
+# Competitive Programming
 
 - Long Talk (60 to 90 minutes)
 - Covers broad overview of DSA, CP and Development.
