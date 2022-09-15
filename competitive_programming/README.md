@@ -2,9 +2,8 @@
 
 - Long Talk (60 to 90 minutes)
 - Covers broad overview of DSA, CP and Development.
-- Usually for the folks who are starting out.
+- Generally, for the folks who are starting out.
 - [Slides](https://docs.google.com/presentation/d/1kfPN_JOcz6Zh7iGKVEtIID4avnR2HEmgMmFSxesTFi4/edit?usp=drivesdk)
-
 - [Talk Content](content.md)
 
 ## Timeline

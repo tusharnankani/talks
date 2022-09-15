@@ -1,4 +1,4 @@
-Note: Questions you might not get the answers to, but you will gain enough clarity get those answers yourself.
+Note: Questions you might (not) get the answers to, but you will gain enough clarity get those answers yourself.
 
 - Is competitive programming necessary? How to balance college, programming and other aspects?
 - Does language matter? What language to start with? How to approach learning a new language?
@@ -10,11 +10,27 @@ Side note: Shoutout to [tsecgeeks.in](https://tsecgeeks.in/Dive-Into-CP) for doc
 
 ## Educating oneself about the difference
 
+- Disclaimer
+    - !(speaker to audience session)
+    - A conversation between peers. Feel to answer others' question if you want to.
+    - About asking questions.
+
+- Polls
+    - What are we here to do today?
+    - How many of you have solved at least on CP/DSA problem?
+    - How many of you have built at least one project using any language?
+
 - What is DSA?
-    - Something
+    - Data structures: A Data Structure is a way to organize data to allow processing of a large amount of data in a relatively short period of time.
+    - Algorithm: Algorithms are well-defined sets of instructions designed that are used to solve problems or perform a task.
+    - What does a **DSA problem** look like?
+        - You are given a set of instructions. 
+        - You have to figure out to solve the problem using a specific Data Structure and Algorithm.
 
 - What is competitive programming?
+    - Poll: What platforms do you know?
     - CP is a mind sport just like any other sport.
+    - There are variables like time, speed and accuracy involved.
 
 - DSA vs CP
     - What to do and thinking what to do
@@ -22,13 +38,63 @@ Side note: Shoutout to [tsecgeeks.in](https://tsecgeeks.in/Dive-Into-CP) for doc
     - code quality
     - LL, BST are never used in CP
     - Answer to this is very goal specific actually but I try to put my opinion.
-    - It helps you build a problem solving mindset, improves code reading ability, debugging faster, optimising. (which is essentially what some companies are looking for in interviews.)
+    - CP: It helps you build a problem solving mindset, improves code reading ability, debugging faster, optimising. (which is essentially what some companies are looking for in interviews.)
 
 - Why competitive programming?
     - with developing Problem Solving skills.
     - to be a quick thinker.
     - to think about efficency in terms of time and memory limits.
     - And also, it is a part of recruitment/shortlisting for some companies for full time job roles.
+
+- How do I start?
+    - Level 1: Learn a language > Learn Standard lib(inbuilt) > Hackerrank
+    - Level 2: Solve problems
+    - Level 3: Participate in contests > Practice > Upsolve
+
+- Anatomy of a CP Problem
+
+## Strategies
+
+- Solving strategy
+    - Reading the problem and understanding the problem.
+    - Filter the noise and make observations as you read.
+    - Connect the dots and do something which you do know
+    - Constraints.
+    - Don't jump to the code. Think first.
+    - Counter intutiveness about the think twice, code once.
+    - Don't always optimize. If nothing works, try Brute Force.
+    - Edge Cases.
+    - Eg: Write a program to add 2 numbers.
+- Contest strategy
+    - Don't look at the leaderboard.
+    - Probably look at the number of submissions.
+    - Move to the next problem if you have given sufficient time to a problem.
+        - Come back at it with a fresh perspective.
+- Upsolving strategy
+    - What is Upsolving?
+    - Do n + 1 th problem from a contest.
+    - Read others' code. 
+        - Clean code?
+        - Better implementation?
+            - Eg: Reversing a bit. 
+- Editorial reading strategy
+    - Don't jump to the climax.
+        - Don't look at the code directly.
+        - Go step by step, line by line.
+        - Try it after each line.
+        - Even if you look at the code, do not copy paste. 
+            - Write the code yourself.
+        - Let it go if it doesn't make sense today.  
+            - Don't take things too personally. It might make sense tomorrow.
+
+## Mistakes I made
+
+- Not getting out of my comfort zone.
+- Moving to look at others' solutions quickly.
+- Not being consistent.
+- Giving up.
+
+### Generalizations
 
 - If we take a broader look, and zoom out a little from this scenario — it emulates real time problem solving.
     - Reading the problem and understanding it.
@@ -38,47 +104,44 @@ Side note: Shoutout to [tsecgeeks.in](https://tsecgeeks.in/Dive-Into-CP) for doc
     - Coding out the problem. (Development)
     - Result of the problem. (Speed, Time, Testing)
 
-- How do I start?
-    - Level 1: Learn a language > Learn Standard lib(inbuilt) > Hackerrank
-    - Level 2: Solve problems
-    - Level 3: Participate in contests > Practice > Upsolve
+## Real Time Examples
 
-## Strategies
-
-- Solving strategy
-- Contest strategy
-- Upsolving strategy
-- Editorial reading strategy
-
-## Mistakes I made
-
-- Not getting out of my comfort zone.
-- Moving to look at others' solutions quickly.
-- Not being consistent.
-
-## How to think and solve a problem
-
-- Read PS properly
-- Constraints
-- Try to do some observations
-- Connect the dots and do something which you do know
-- Then suddenly the solution will strike
-- Move to code only if you have intuition or any small math proof
+- Harsh Kapadia's Git Graph
+- React's Diffing Algorithm
+- React's Source code: Internal packages
 
 ## Some prestigious contests
 
-- ICPC
-    - team competition which happens annually across the world, that consists of several rounds.
+- Codechef Snackdown
+- [ICPC](https://icpc.global) (Internation Collegiate Programming Contest)
+    - Team competition which happens annually across the world, that consists of several rounds.
     - Team of 3
     - Regionals (3-4 in india)
     - Asia finals
     - World finals
-- Google Competitions
-    - Kickstart
-    - Codejam
-    - Hashcode
-- Facebook Hackercup
-- Codechef snackdown
+- [Google Kickstart, Hashcode and CodeJam](https://codingcompetitions.withgoogle.com)
+- [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup)
+- Codechef Snackdown
+
+## How much time to spend on solving a problem?
+
+## From where to practice?
+
+Platforms:
+- Hackerrank
+- Codeforces
+- Codechef
+- AtCoder's
+- Leetcode
+
+For beginners:
+- [AtCoder's](https://atcoder.jp), ABC every Saturday 5 PM IST
+- [Codechef](https://www.codechef.com), STARTER every Wednesday 8 PM IST
+- [Codeforces](https://www.codeforces.com), Div 3
+
+### How to start practicing?
+
+- Implementation, constructive algo, Ad Hoc and greedy
 
 ## How to stay consistent
 
@@ -88,20 +151,3 @@ Side note: Shoutout to [tsecgeeks.in](https://tsecgeeks.in/Dive-Into-CP) for doc
 - Have short discussions after contest.
 - If practice gets boring then start learning any new DS/Algo.
 - Have a growth mindset, and take responsibility for yourself.
-
-- How much time to spend on solving a problem?
-
-- From where to practice?
-    - CF/CC/AC
-
-- How to start practicing?
-    - Implementation, constructive algo, Ad Hoc and greedy
-
-## Contests
-
-- For beginners 
-    - Div 3 of CF
-    - ABC of AC 
-
-- For everyone
-    - CF + CC + ABC
