@@ -10,15 +10,15 @@ Side note: Shoutout to [tsecgeeks.in](https://tsecgeeks.in/Dive-Into-CP) for doc
 
 ## Educating oneself about the difference
 
-- Disclaimer
-    - !(speaker to audience session)
-    - A conversation between peers. Feel to answer others' question if you want to.
-    - About asking questions.
-
 - Polls
     - What are we here to do today?
     - How many of you have solved at least on CP/DSA problem?
     - How many of you have built at least one project using any language?
+
+- Disclaimer
+    - !(speaker to audience session)
+    - A conversation between peers. Feel to answer others' question if you want to.
+    - About asking questions.
 
 - What is DSA?
     - Data structures: A Data Structure is a way to organize data to allow processing of a large amount of data in a relatively short period of time.
