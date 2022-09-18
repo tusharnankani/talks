@@ -52,6 +52,16 @@ Side note: Shoutout to [tsecgeeks.in](https://tsecgeeks.in/Dive-Into-CP) for doc
     - Level 3: Participate in contests > Practice > Upsolve
 
 - Anatomy of a CP Problem
+    - Title
+    - Problem Statement
+    - Input/Output format
+    - Constraints
+    - Memory and Time Limits
+    - Sample Test Cases
+    - Explanation
+
+- Sample Problem
+    - Navigating through Codeforces and Hackerrank
 
 ## Strategies
 
