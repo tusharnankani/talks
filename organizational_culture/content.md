@@ -25,6 +25,8 @@ So, let's get started?
     - during my time at JPMC
 - When my final year started, I was thinking about a plan of action about what to do, and there might have been a hundred things, but one thing that I want to do is explicitly (not implicitly) improve the coding culture of my college (charity begins at home).
 - "Officially", I am a part of CodeCell and Entrepreneurship Cell of our college; but I am trying to work towards organizational culture of these committees.
+    - But again, this is something that I volunteered for and not something someone asked me to do.
+        - Like this talk. 
 
 ##### How do I try to influence culture?
 
@@ -50,8 +52,16 @@ This is just going to be my take on culture.
 
 ### Defining Culture
 
-- 
-- We all think we are open-minded, until we come across a different culture, a different opinion, a different perspective. 
+- The illustration: decisions and interactions at a potential organization.
+    - These are all subconsciously influenced by culture. 
+    - Culture plays a major role in the way:
+        - we speak
+        - we take decisions
+        - we work
+        - we take responsibility 
+
+
+#### Types of culture
 
 Culture
 - tech/non-tech
@@ -59,16 +69,24 @@ Culture
 - CodeCell, GDSC TSEC, ICICI, JPMC, RBI
 
 Types of Culture:
+- Indian Culture
+    - raised up
+
+We are so much surrounded by it and it influences a lot of our decisions subconsciously.
+- It is true what they say right — you are influenced by the people and the kind of ideas we are surrounded with.  
+- Like even yesterday, when I was building these illustrations, I found a potential UX bug in tldraw.com, so I opened a bug report.
+    - Again, no one asked me to do it, but it is because I have been "raised" - raised in the tech world; there were people like Kartik Soneji and Harsh Kapadia.
+    - Where you can improve software, and improving software is in your hands; even if it is smallest of the help.
+
+Types of Culture (continued):
 - Coding Culture
     - In terms of colleges 
 - Tech Culture
     - In terms of firms
     - Engineering blogs (cult.fit)
     - Supporting open-source (Razorpay)
-- Goal-oriented Culture
-    - DevFolio
-        - A tight knit family with culture
-        - Working towards a single goal
+
+External motivators/externally driven:
 - Collaboration/Competition driven culture
 - Result/Fear/Incentive driven
     - Carrot and the stick story
@@ -76,29 +94,44 @@ Types of Culture:
         - Tech Firms like Amazon
         - Non. Tech firms like ICICI Bank 
         - Placement talk
+- Goal-oriented Culture
+    - DevFolio
+        - A tight knit family with culture
+        - Working towards a single goal
+        - Engineering team
+
+##### Talking about goals
+
+- Individual
+- Team
+- Department
+- Organisation
+
+- We all think we are open-minded, until we come across a different culture, a different opinion, a different perspective.
 
 Harsh
 - hackathon spirit blog
+    - "Getting done with things" attitude
+    - Resorting to temporary solutions 
+    - Tenure based work
+    - Delegating work and being delegated
+
+Ideal
 - open conversations
 - hearing and respecting opinions 
 - how to be empathetic and practice empathy
-- smallest case: empathy starts from within
-- think thrice, not twice — before you say something
-
-Or do anything or text or email. 
-When I say this, I am not asking to hold back — I am asking to review your answer/response/way of receiving and sending it from all angles. It gives a good practice of empathy. 
-And of course, something that is reviewed thrice is better than twice. 
-It might save you from some trouble, someday.
+    - smallest case: empathy starts from within
+    - think thrice, not twice — before you say something (Or do anything or text or email.) 
+        - When I say this, I am not asking to hold back — I am asking to review your answer/response/way of receiving and sending it from all angles. It gives a good practice of empathy. 
+        - And of course, something that is reviewed thrice is better than twice. 
+        - It might save you from some trouble, someday.
 
 Darshan Jani
 - my first manager (you always remember your first)
-    - Speaking about goals
-        - Individual
-        - Team
-        - Department
-        - Organisation
 - EQ/IQ
-- Character over Skill
+    - Character over Skill
+
+After working there for a few weeks;
 - Communication Gap
 - Accountability Gap
 - to build a good team:
@@ -106,8 +139,3 @@ Darshan Jani
 2. Building a good team, teaching them
 3. Encouraging questions
 4. Being approachable
-
-Misc.
-
-- Getting done with things attitude
-- Delegating work and being delegated
