@@ -1,5 +1,10 @@
 Culture
 
+Darshan Jani
+- JPMC (culture)
+- my first manager (you always remember your first)
+- EQ/IQ
+
 - Speaking about this officially for the first time.
     - Have spoken and discussed about this with multiple organisations; examples of which will be covered.
     - But it was in bits and pieces. I will be connecting the dots, and hopefully I will be able to.
@@ -32,11 +37,12 @@ So, let's get started?
 
 - By giving "gyaan", yes.
 - This is a very broad question. You cannot just speak about culture - when you want to change culture.
-    - You start asking questions about their interactions or just giving feedback on their decisions. 
+    - We start asking questions about their interactions or just giving feedback on their decisions. 
 - But if we zoom out, it is less talking, more listening.
     - The way to do is to understand people, understand perspectives, understand why certain decisions are being taken;
     - And there onwards potentially try to find flaws in the system or tweak their thought process.
-    - TODO: A picture about dealing with things. A tree of decisions, nothing is right or wrong, it is about doing things the right way — morally and ethically.
+        - Discussed this approach with Aayush Pal (engineering culture at market.xyz)
+    - TODO: A picture about dealing with things. A tree of decisions, nothing is right or wrong, it is about doing things the correct way — morally and ethically.
 
 #### What will we cover today?
 
@@ -59,7 +65,6 @@ This is just going to be my take on culture.
         - we take decisions
         - we work
         - we take responsibility 
-
 
 #### Types of culture
 
@@ -85,6 +90,14 @@ Types of Culture (continued):
     - In terms of firms
     - Engineering blogs (cult.fit)
     - Supporting open-source (Razorpay)
+    - Conducting in-house Hackathon (JPMC, Razorpay)
+
+##### Talking about goals
+
+- Individual
+- Team
+- Department
+- Organisation
 
 External motivators/externally driven:
 - Collaboration/Competition driven culture
@@ -99,15 +112,6 @@ External motivators/externally driven:
         - A tight knit family with culture
         - Working towards a single goal
         - Engineering team
-
-##### Talking about goals
-
-- Individual
-- Team
-- Department
-- Organisation
-
-- We all think we are open-minded, until we come across a different culture, a different opinion, a different perspective.
 
 Harsh
 - hackathon spirit blog
@@ -126,16 +130,16 @@ Ideal
         - And of course, something that is reviewed thrice is better than twice. 
         - It might save you from some trouble, someday.
 
-Darshan Jani
-- my first manager (you always remember your first)
-- EQ/IQ
-    - Character over Skill
-
 After working there for a few weeks;
 - Communication Gap
 - Accountability Gap
 - to build a good team:
+
+> Character over Skill
+
 1. holding accountable/responsibile
 2. Building a good team, teaching them
 3. Encouraging questions
 4. Being approachable
+
+- We all think we are open-minded, until we come across a different culture, a different opinion, a different perspective.
