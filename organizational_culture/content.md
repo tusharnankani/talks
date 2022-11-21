@@ -1,9 +1,11 @@
 Culture
 
-Darshan Jani
-- JPMC (culture)
-- my first manager (you always remember your first)
-- EQ/IQ
+Dedicated to: 
+- Darshan Jani
+  - JPMC (culture)
+  - my first manager (you always remember your first)
+  - EQ/IQ
+- HK and APal
 
 - Speaking about this officially for the first time.
     - Have spoken and discussed about this with multiple organisations; examples of which will be covered.

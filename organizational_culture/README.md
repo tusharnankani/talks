@@ -15,3 +15,29 @@
 - My perspectives, examples and opinions on cultures in organizations.
 - [Slides](https://docs.google.com/presentation/d/1-a0FCI-z8pTrmHRq363KG9bxhkuf4zDDr_suuTQe2gg)
 - [Talk Content](content.md)
+
+
+## Timeline
+ 
+- [Organizational Culture](https://twitter.com/OurTechComm/status/1578421450037264385) for [Our Tech Community](http://ourtech.community)'s [MeetUp #2](https://meetup.ourtech.community/2)
+    - Offline talk
+    - 9th October, 2022
+
+<table>
+    <tr>
+        <td>
+            <img src='./img0/1.jpg' alt='A picture of Tushar Nankani holding a mic'>
+        </td>
+        <td>
+            <img src='./img0/2.jpg' alt='Another picture of Tushar Nankani holding a mic'>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src='./img0/3.jpg' alt='A picture of Tushar on an elevated stage with projector and audiences back in the picture.'>
+        </td>
+        <td>
+            <img src='./img0/4.jpg' alt='A group picture of the attendees of the meetup.'>
+        </td>
+    </tr>
+</table>
