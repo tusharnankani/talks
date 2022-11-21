@@ -1,12 +1,18 @@
-# Talks
+Feel free to [reach out for a talk or interview](http://tusharnankani.github.io/about)!
+
+## Talks
 
 - [Design Principles](./design_principles)
 - [Competitive Programming](./competitive_programming)
+- [Organizational Culture](./organizational_culture)
 
-## Misc.
+### Podcasts/Sessions
 
-About | Org | Date
----|---|---
-[Session on J.P. Morgan Chase & Co.](https://www.youtube.com/watch?v=_N9IuupYnPY) | CSI TSEC | 15th Mar, 2022
-[Showcasing Aankh](https://youtu.be/IgeOx70EvOQ?t=7811), [GitHub](https://tusharnankani.github.io/Aankh) | Rubix 48-hour Hackathon | 28th Jan, 2022 
-[Kickstart Competitive Programming](https://youtu.be/IHPjbt2BMW8?t=5870) | TSEC CodeCell | 3rd Sept, 2021
+- [Noobcast.co — Thoughts on Internships and Communities](https://youtu.be/NwxQEx6qjeI) (21st June, 2022)
+- [CSI TSEC — Session on J.P. Morgan Chase & Co.](https://www.youtube.com/watch?v=_N9IuupYnPY) (15th Mar, 2022)
+
+### Misc
+
+- [Showcasing Aankh — A real time proctoring solution](https://youtu.be/IgeOx70EvOQ?t=7811), [tusharnankani/Aankh](https://tusharnankani.github.io/Aankh) (28th Jan, 2022) 
+- [TSEC CodeCell — Kickstart Competitive Programming](https://youtu.be/IHPjbt2BMW8?t=5870) (3rd Sep, 2021)
+- [Showcasing Swadeshi — For farmers to directly participate in the market](https://youtu.be/0dYJ3GJwcBo?t=5865), [tusharnankani/Swadeshi](https://github.com/tusharnankani/Swadeshi) (12th July, 2020)
