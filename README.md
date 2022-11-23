@@ -13,7 +13,7 @@ Feel free to [reach out for a talk or interview](http://tusharnankani.github.io/
 
 ### Misc
 
-- [Hosted Ideaverse by E-Cell TSEC](/ideaverse) (11th October, 2022)
+- [Hosted Ideaverse by E-Cell TSEC](./ideaverse) (11th October, 2022)
 - [Showcasing Aankh — A real time proctoring solution](https://youtu.be/IgeOx70EvOQ?t=7811), [tusharnankani/Aankh](https://tusharnankani.github.io/Aankh) (28th Jan, 2022) 
 - [TSEC CodeCell — Kickstart Competitive Programming](https://youtu.be/IHPjbt2BMW8?t=5870) (3rd Sep, 2021)
 - [Showcasing Swadeshi — For farmers to directly participate in the market](https://youtu.be/0dYJ3GJwcBo?t=5865), [tusharnankani/Swadeshi](https://github.com/tusharnankani/Swadeshi) (12th July, 2020)
