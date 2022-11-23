@@ -7,13 +7,13 @@ An [ideation and entrepreneurship based event](https://www.instagram.com/p/CjYOp
 <table>
     <tr>
         <td>
-            <img src='./img0/1.jpg' alt='A picture of Tushar Nankani holding a mic on a podium behind a laptop.'>
+            <img src='./img0/1.JPG' alt='A picture of Tushar Nankani holding a mic on a podium behind a laptop.'>
         </td>
         <td>
-            <img src='./img0/2.jpg' alt='A picture of Tushar Nankani holding a mic with his back visibile and pointing at the audience holding a mic.'>
+            <img src='./img0/2.JPG' alt='A picture of Tushar Nankani holding a mic with his back visibile and pointing at the audience holding a mic.'>
         </td>
         <td>
-            <img src='./img0/3.jpg' alt='A picture of Tushar holding a mic in his hands while smiling at not just any stranger.'>
+            <img src='./img0/3.JPG' alt='A picture of Tushar holding a mic in his hands while smiling at not just any stranger.'>
         </td>
     </tr>
     <tr>
