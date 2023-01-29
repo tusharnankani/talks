@@ -21,4 +21,4 @@ Feel free to [reach out for a talk or interview](http://tusharnankani.github.io/
 #### Case Studies
 
 - [Dunzo Case Study](https://docs.google.com/presentation/d/1f8rLOgItXSKxLSG-iDoYOoSyOcKTeZyW6nFr4Ab-TrU/edit?usp=sharing), [Problem Statement](https://drive.google.com/file/d/1wCPdDt8ks1dVUsmc7KI7jPWWWvUV7Wf6/view) ([Sample](https://drive.google.com/file/d/1MfNyXUsXH8o57x5Qx5SsqCfoiqEPwtpN/view)), (1st Jan, 2023) 
-- [Patternistic](https://tusharnankani.github.io/patternistic) - [A micro-interaction case study](https://undirected-graph.netlify.app/posts/patternistic) (30th Dec, 2022)
+- [Patternistic](https://tusharnankani.github.io/patternistic) - [A micro-interaction case study](https://blog.tusharnankani.com/posts/patternistic) (30th Dec, 2022)
