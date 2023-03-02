@@ -1,4 +1,4 @@
-Feel free to [reach out for a talk or interview](http://tusharnankani.github.io/about)!
+Feel free to [reach out for a talk or interview](http://about.tusharnankani.com)!
 
 ## Talks
 
