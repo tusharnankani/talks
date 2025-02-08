@@ -8,7 +8,22 @@
 - [Talk Content](content.md)
 
 ## Timeline
- 
+
+ - [Fundamental Design Principles](https://twitter.com/WomenCoders01/status/1535887218803453952) for [GDG TSEC](https://gdg.community.dev/gdg-on-campus-thadomal-shahani-engineering-college-mumbai-india/)
+    - In-person
+    - 6th February, 2025
+
+<table>
+    <tr>
+        <td>
+            <img src='./img2/1.jpg' alt='Banner for GDG TSEC Event'>
+        </td>
+        <td>
+            <img src='./img2/2.png' alt='A snapshot of the event'>
+        </td>
+    </tr>
+</table>
+
 - [Fundamental Design Principles](https://twitter.com/WomenCoders01/status/1535887218803453952) for [Mumbai Women Coders](https://www.meetup.com/mumbai-women-coders)'s [June Meetup](https://www.meetup.com/mumbai-women-coders/events/286422185)
     - Online talk
     - 25th June, 2022
