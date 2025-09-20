@@ -5,6 +5,7 @@ Feel free to [reach out for a talk or interview](http://about.tusharnankani.com)
 - [Design Principles](./design_principles)
 - [Competitive Programming](./competitive_programming)
 - [Organizational Culture](./organizational_culture)
+- [Git and GitHub](./git_and_github)
 
 ### Podcasts/Sessions
 
