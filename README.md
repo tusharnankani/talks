@@ -6,6 +6,7 @@ Feel free to [reach out for a talk or interview](http://about.tusharnankani.com)
 - [Competitive Programming](./competitive_programming)
 - [Organizational Culture](./organizational_culture)
 - [Git and GitHub](./git_and_github)
+- The Framework of Impactful Presentations
 
 ### Podcasts/Sessions
 
